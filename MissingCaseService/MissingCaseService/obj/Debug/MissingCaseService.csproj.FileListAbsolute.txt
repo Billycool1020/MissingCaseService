@@ -1,0 +1,15 @@
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\bin\Debug\MissingCaseService.exe.config
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\bin\Debug\MissingCaseService.exe
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\bin\Debug\MissingCaseService.pdb
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\bin\Debug\EntityFramework.dll
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\bin\Debug\EntityFramework.xml
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\obj\Debug\MissingCaseService.MissingCaseService.resources
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\obj\Debug\MissingCaseService.ProjectInstaller.resources
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\obj\Debug\MissingCaseService.csproj.GenerateResource.Cache
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\obj\Debug\MissingCaseService.exe
+C:\Users\Billy\documents\visual studio 2015\Projects\MissingCaseService\MissingCaseService\obj\Debug\MissingCaseService.pdb
